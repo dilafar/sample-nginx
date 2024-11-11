@@ -1,0 +1,1 @@
+docker push fadhiljr/nginxapp:v1
